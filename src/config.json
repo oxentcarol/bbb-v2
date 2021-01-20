@@ -1,14 +1,10 @@
 {
-  "participant": 2,
+  "participant": 8,
   "contasEmParalelo": 1,
   "credentials": [
     {
-      "username": "",
-      "password": ""
-    },
-    {
-      "username": "",
-      "password": ""
+      "username": "pooxacarooll@hotmail.com",
+      "password": "Carolbastos1"
     }
   ]
 }
